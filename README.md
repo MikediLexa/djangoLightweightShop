@@ -1,5 +1,8 @@
 ﻿# djangoLightwieghtShop -- Codealong
  
+ I tried the YT-Tutorial by freecodecamp & code with stein
+ Here is the link: https://www.youtube.com/watch?v=ZxMB6Njs3ck
+ 
  Basics:
  
  - Created four apps: core, item, dashboard, conversation
