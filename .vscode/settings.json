@@ -1,0 +1,8 @@
+{
+    "emmet.includeLanguages": {
+        "django-html": "html"
+    },
+    "auto-rename-tag.activationOnLanguage": ["html", "xml", "javascript"],
+    "html.autoClosingTags": true, 
+    "auto-close-tag.SublimeText3Mode": true
+}
